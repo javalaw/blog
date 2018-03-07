@@ -1,7 +1,13 @@
+---
+	post_title: 'Post Title'
+	layout: post_type_probably_post
+	published: true_or_false
+---
+
 # Hello world
 ```php
 echo 'hello world';
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMjQxOTU0M119
+eyJoaXN0b3J5IjpbLTYxMjEyNTQ2Nl19
 -->
